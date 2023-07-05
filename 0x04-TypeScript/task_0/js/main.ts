@@ -7,16 +7,16 @@ interface Student {
   
   const [student1, student2] = [
     {
-      firstName: "Alfred",
-      lastName,: "Moruri"
-      age: 25,
-      location: "Free State"
+      firstName: "Michelle",
+      lastName,: "Chatikobo"
+      age: 33,
+      location: "Gauteng"
     },
     {
-      firstName: "Marcus",
-      lastName: "Pere",
+      firstName: "Tafadzwa",
+      lastName: "Mhakakora",
       age: 33,
-      location: "Saint Harcourt"
+      location: "Gauteng"
     },
   ]
   
